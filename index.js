@@ -13,6 +13,6 @@ app.get("/idade/:nome/:idade", (req, res) => {
 });
 
 
-app.listen(3005, () => {
+app.listen(3000, () => {
   console.log("Felipe, Servidor on");
 });
