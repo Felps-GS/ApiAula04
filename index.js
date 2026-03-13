@@ -14,5 +14,5 @@ app.get("/idade/:nome/:idade", (req, res) => {
 
 
 app.listen(3000, () => {
-  console.log("Felipe, Servidor on");
+  console.log("Felipe, Servidor ligado");
 });
